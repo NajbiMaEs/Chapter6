@@ -37,3 +37,12 @@ return 0;
 ## Exercise 6-3:
 ```c
 ```
+## Exercise 6-4:
+```c
+```
+## Exercise 6-5:
+```c
+```
+## Exercise 6-6:
+```c
+```
